@@ -682,7 +682,8 @@ screen and (-ms-high-contrast: none) {
 
 .navbar-custom .navbar-brand.logo-text {
     font: 600 2rem/1.5rem "Raleway", sans-serif;
-    color: #393939;
+    border: none solid;
+    color white
     text-decoration: none;
 }
 
