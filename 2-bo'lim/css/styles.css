@@ -5,7 +5,7 @@ html {
 }
 .navbar-brand, 
 .logo-image{
-    border: none !important;
+    border: solid none !important;
 }
 body,
 p {
