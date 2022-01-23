@@ -3,7 +3,10 @@ html {
     width: 100%;
     height: 100%;
 }
-
+.navbar-brand, 
+.logo-image{
+    border: none !important;
+}
 body,
 p {
     background-color: black;
