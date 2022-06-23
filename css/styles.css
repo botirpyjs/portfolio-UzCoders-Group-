@@ -1538,6 +1538,9 @@ a:hover.back-to-top {
         margin-left: 2rem;
         vertical-align: top;
     }
+    .form-2{
+        color: black;
+    }
     .form-2 .list-unstyled li {
         display: inline-block;
         margin-right: 0.5rem;
@@ -1818,7 +1821,6 @@ a:hover.back-to-top {
         margin-left: 2.25rem;
     }
     .form-2 .map-responsive {
-        background-image: none;
         max-width: 31rem;
         margin-right: auto;
         margin-left: auto;
