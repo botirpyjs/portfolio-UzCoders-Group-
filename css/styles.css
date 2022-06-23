@@ -1400,8 +1400,8 @@ screen and (-ms-high-contrast: none) {
 a.back-to-top {
     position: fixed;
     z-index: 999;
-    right: 0.75rem;
-    bottom: 0.75rem;
+    right: 2.3rem;
+    bottom: 6rem;
     display: none;
     width: 2.625rem;
     height: 2.625rem;
@@ -1850,3 +1850,4 @@ a:hover.back-to-top {
         margin-left: 1.75rem;
     }
 }
+
